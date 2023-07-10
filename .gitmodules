@@ -1,0 +1,3 @@
+[submodule "firma"]
+	path = firma
+	url = git@github.com:davidyshen/firma.git
